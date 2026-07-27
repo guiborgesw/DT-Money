@@ -39,6 +39,9 @@ npm install
 
 # Start the development server
 npm run dev
+
+# Start the json server
+npm run dev:server
 ```
 
 Access at: `http://localhost:5173`
