@@ -1,28 +1,57 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2026-07-21T18:17:34.106Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 60,
-            "createdAt": "2026-07-21T18:05:34.106Z"
-        },
-        {
-            "id": 3,
-            "description": "Curso Udemy",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 120,
-            "createdAt": "2026-07-21T18:15:34.106Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2026-07-21T18:17:34.106Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2026-07-21T18:05:34.106Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Udemy",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 120,
+      "createdAt": "2026-07-21T18:15:34.106Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "description": "Mercado",
+      "price": 300,
+      "category": "Alimentação",
+      "type": "outcome",
+      "id": 5
+    },
+    {
+      "description": "Cinema",
+      "price": 50,
+      "category": "Lazer",
+      "type": "outcome",
+      "id": 6
+    },
+    {
+      "description": "Passeio de Roda Gigante",
+      "price": 140,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2026-08-29T02:16:22.953Z",
+      "id": 7
+    }
+  ]
 }
