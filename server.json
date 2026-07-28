@@ -29,6 +29,7 @@
       "price": 5000,
       "category": "Venda",
       "type": "income",
+      "createdAt": "2026-08-29T02:16:22.953Z",
       "id": 4
     },
     {
@@ -36,6 +37,7 @@
       "price": 300,
       "category": "Alimentação",
       "type": "outcome",
+      "createdAt": "2026-08-29T02:16:22.953Z",
       "id": 5
     },
     {
@@ -43,6 +45,7 @@
       "price": 50,
       "category": "Lazer",
       "type": "outcome",
+      "createdAt": "2026-08-29T02:16:22.953Z",
       "id": 6
     },
     {
@@ -50,7 +53,7 @@
       "price": 140,
       "category": "Lazer",
       "type": "outcome",
-      "createdAt": "2026-08-29T02:16:22.953Z",
+      "createdAt": "2026-08-30T02:16:22.953Z",
       "id": 7
     }
   ]
