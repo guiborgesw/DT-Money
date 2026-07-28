@@ -63,6 +63,22 @@
       "type": "outcome",
       "createdAt": "2026-07-28T13:52:12.642Z",
       "id": 8
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2026-07-28T18:23:23.785Z",
+      "id": 9
+    },
+    {
+      "description": "Hamburguer",
+      "price": 60,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2026-07-28T18:23:38.862Z",
+      "id": 10
     }
   ]
 }
